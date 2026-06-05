@@ -17,3 +17,11 @@
 1. Re-price หรือ discontinue Tables เพราะขาดทุนทุกปี
 2. จำกัด discount ไม่เกิน 20% โดยเฉพาะ Furniture
 3. เพิ่ม stock และ marketing budget ช่วง Q4
+
+## SQL Analysis
+วิเคราะห์ด้วย SQL (SQLite) เพิ่มเติม ไฟล์ `superstore_sql.sql`
+
+### Queries
+1. Revenue & Profit Margin by Category
+2. Sub-categories ที่ขาดทุน
+3. ความสัมพันธ์ระหว่าง Discount กับ Profit
