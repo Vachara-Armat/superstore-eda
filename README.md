@@ -25,3 +25,5 @@
 1. Revenue & Profit Margin by Category
 2. Sub-categories ที่ขาดทุน
 3. ความสัมพันธ์ระหว่าง Discount กับ Profit
+## Dashboard
+[ดู Superstore Sales Dashboard](https://datastudio.google.com/reporting/59a8023d-f57d-4799-afaa-dd8d12600782)
