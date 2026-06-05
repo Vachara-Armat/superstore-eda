@@ -27,3 +27,15 @@
 3. ความสัมพันธ์ระหว่าง Discount กับ Profit
 ## Dashboard
 [ดู Superstore Sales Dashboard](https://datastudio.google.com/reporting/59a8023d-f57d-4799-afaa-dd8d12600782)
+
+## Predictive Model
+พยากรณ์ว่า order ไหนจะขาดทุน ด้วย Random Forest Classifier
+
+### Results
+- Accuracy: 94%
+- Discount คือปัจจัยหลักที่ส่งผลต่อการขาดทุน 67.1%
+- Sales มีผล 31% / Quantity แทบไม่มีผล 1.9%
+
+### Business Recommendation
+- จำกัด discount เพราะส่งผลต่อกำไรมากที่สุด
+- ใช้โมเดลนี้ช่วย flag orders ที่เสี่ยงขาดทุนก่อนอนุมัติ
